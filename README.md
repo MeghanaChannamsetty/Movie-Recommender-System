@@ -27,6 +27,7 @@ This project is a Content-Based Movie Recommendation System that recommends movi
 3. Dropping unnecessary columns to focus on relevant features for the recommendation system.
 
 **Key Algorithms and Techniques Used**:
+
 **1. PorterStemmer Algorithm (nltk.porter.stem):**
 This algorithm is used to perform stemming, which removes suffixes from words (e.g., "running" becomes "run"). This helps to avoid variations of the same word and ensures better matching in the recommendation system.
 
