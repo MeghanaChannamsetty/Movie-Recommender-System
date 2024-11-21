@@ -1,17 +1,21 @@
 # Movie Recommender System
 This project is a Content-Based Movie Recommendation System that recommends movies based on the similarity of their content. The recommendation system was developed using Python, machine learning, and natural language processing techniques. The recommendations include both the movie titles and their posters, fetched via the TMDb API.
+
 **Framework Used:**
   1. Streamlit: To build an interactive web application.
+     
 **Libraries Used:**
   1. Numpy
   2. Pandas
   3. Natural Language ToolKit(NLTK)
   4. Scikit Learn
   5. pickle
+     
 **Modules and Submodules Used:**
   1. nltk.stem.porter
   2. sklearn.feature_extraction.text
   3. sklearn.metrics.pairwise
+     
 **Algorithms Used:**
   1. Porter Stemmer
   2. CountVectorizer
